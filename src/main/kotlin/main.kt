@@ -6,7 +6,7 @@ const val MAXDADO = 6
 const val MINDADO = 1
 const val N = 10
 
-fun main(args: Array<String>) {
+fun main() {
     val result1 = mutableListOf<Int>()
     val result2 = mutableListOf<Int>()
 
